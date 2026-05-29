@@ -76,4 +76,4 @@ project_php_kelompok2
 
 ### Langkah 6 - Menjalankan Project
 
-1. Buka browser dan akses alamat berikut : http://localhost/project_php_kelompok2/public/index.php
+1. Buka browser dan akses alamat berikut : http://localhost/project_php_kelompok2/public/login.php
