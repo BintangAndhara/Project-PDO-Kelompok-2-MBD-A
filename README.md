@@ -77,3 +77,13 @@ project_php_kelompok2
 ### Langkah 6 - Menjalankan Project
 
 1. Buka browser dan akses alamat berikut : http://localhost/project_php_kelompok2/public/login.php
+
+### Langkah 7 - Akses Login Default
+
+Sistem ini sudah dilengkapi dengan beberapa data pengguna (berdasarkan `users.json` / database) untuk menguji fitur berdasarkan hak akses (*role*). Gunakan *username* berikut untuk masuk ke dalam sistem:
+
+| Nama Pengguna | Username | Role Akses | Keterangan Tugas |
+| --- | --- | --- | --- |
+| **Bintang** | `Bintang123` | Kasir | Menjalankan proses transaksi dan pembayaran pelanggan. |
+| **Gwenna** | `Gwen123` | Admin | Mengelola dan memperbarui daftar menu (Tambah/Edit/Hapus). |
+| **Nelson** | `Nelson123` | Manajer | Memantau rekapitulasi dan riwayat transaksi penjualan. |
