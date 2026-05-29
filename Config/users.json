@@ -1,8 +1,8 @@
 [
     {
         "id": 1,
-        "nama": "Bintang",
-        "username": "Bintang123",
+        "nama": "Nelson",
+        "username": "Nelson123",
         "password": "$2y$10$aUQTc625EWeWOOgq2VlkQ.UrkGdMpmVI83xwuskNugfQGYKWRHbPG",
         "role": "Kasir"
     },
@@ -15,8 +15,8 @@
     },
     {
         "id": 3,
-        "nama": "Nelson",
-        "username": "Nelson123",
+        "nama": "Bintang",
+        "username": "Bintang123",
         "password": "$2y$10$RErsB6mmP5nDcSuRrNBf7OyieehwOc78uVCQy7.vZ3fQYspUFQbOu",
         "role": "Manajer"
     }
