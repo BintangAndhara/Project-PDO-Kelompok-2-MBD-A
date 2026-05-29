@@ -84,6 +84,6 @@ Sistem ini sudah dilengkapi dengan beberapa data pengguna (berdasarkan `users.js
 
 | Nama Pengguna | Username | Role Akses | Keterangan Tugas |
 | --- | --- | --- | --- |
-| **Bintang** | `Bintang123` | Kasir | Menjalankan proses transaksi dan pembayaran pelanggan. |
+| **Nelson** | `Nelson123` | Kasir | Menjalankan proses transaksi dan pembayaran pelanggan. |
 | **Gwenna** | `Gwen123` | Admin | Mengelola dan memperbarui daftar menu (Tambah/Edit/Hapus). |
-| **Nelson** | `Nelson123` | Manajer | Memantau rekapitulasi dan riwayat transaksi penjualan. |
+| **Bintang** | `Bintang123` | Manajer | Memantau rekapitulasi dan riwayat transaksi penjualan. |
