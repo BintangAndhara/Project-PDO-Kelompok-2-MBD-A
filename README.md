@@ -109,8 +109,8 @@ Sistem membaca basis data kredensial *dummy* dari file `users.json` untuk *login
 
 | Nama Pengguna | Username | Password | Role Akses | Keterangan Tugas |
 | --- | --- | --- | --- | --- |
-| **Nelson** | `Nelson123` | *(Sesuai setting)* | Kasir | Menjalankan proses transaksi dan pembayaran pelanggan. |
-| **Gwenna** | `Gwen123` | *(Sesuai setting)* | Admin | Mengelola dan memperbarui daftar menu (Tambah/Edit/Hapus). |
-| **Bintang** | `Bintang123` | *(Sesuai setting)* | Manajer | Memantau rekapitulasi dan riwayat transaksi penjualan. |
+| **Nelson** | `Nelson123` | *123* | Kasir | Menjalankan proses transaksi dan pembayaran pelanggan. |
+| **Gwenna** | `Gwen123` | *123* | Admin | Mengelola dan memperbarui daftar menu (Tambah/Edit/Hapus). |
+| **Bintang** | `Bintang123` | *123* | Manajer | Memantau rekapitulasi dan riwayat transaksi penjualan. |
 
 > *Catatan: Anda juga bisa membuat akun baru secara dinamis melalui halaman pendaftaran (`register.php`).*
