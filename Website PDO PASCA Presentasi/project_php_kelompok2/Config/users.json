@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "nama": "Nelson",
+        "username": "Nelson123",
+        "password": "$2y$10$Jovo\/jOg0QD1Cj\/MGP0Oluo5L0ePesOw9ImQ\/UvOC05OtfgSLFbuS",
+        "role": "Kasir"
+    },
+     {
+        "id": 2,
+        "nama": "Gwenna",
+        "username": "Gwen123",
+        "password": "$2y$10$Jovo\/jOg0QD1Cj\/MGP0Oluo5L0ePesOw9ImQ\/UvOC05OtfgSLFbuS",
+        "role": "Admin"
+    },
+     {
+        "id": 3,
+        "nama": "Bintang",
+        "username": "Bintang123",
+        "password": "$2y$10$Jovo\/jOg0QD1Cj\/MGP0Oluo5L0ePesOw9ImQ\/UvOC05OtfgSLFbuS",
+        "role": "Manajer"
+    }
+]
